@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Things i like
+ 
+1. Cats
+2. Coffee
+3. Data & AI
+  i. Analysing data
+  ii. Visualizing data
